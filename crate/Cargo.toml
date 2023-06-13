@@ -28,7 +28,7 @@ time="0.3.21"
 wasm-bindgen = { version = "=0.2.86", optional = true }
 serde = { version = "1.0", features = ["derive"] }
 thiserror = "1.0"
-js-sys = { version = "0.3.62", optional = true }
+js-sys = { version = "^0.3.61", optional = true }
 node-sys = { version = "0.4.2", optional = true }
 perlin2d = "0.2.6"
 
